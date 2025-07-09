@@ -20,7 +20,7 @@ This project requires Python 3.10. It is recommended to use a virtual environmen
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YihuaJerry/EventVAD
+   git clone https://github.com/YihuaJerry/EventVAD.git
    ```
 
 2. Install the packages required for event splitting:
