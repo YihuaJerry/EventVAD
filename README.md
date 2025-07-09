@@ -55,7 +55,6 @@ To run the entire pipeline, follow these steps:
      conda activate event_seg
      python main.py
      ```
-   - This will process the videos in the `videos` directory and generate output files.
 
 2. **Scoring**:
    - Navigate to the scoring directory:
@@ -67,7 +66,6 @@ To run the entire pipeline, follow these steps:
      conda activate score
      python event_score.py
      ```
-   - This will process the output from event segmentation and generate scoring files.
 
 3. **Evaluation**:
    - Navigate back to the `src` directory:
@@ -79,7 +77,6 @@ To run the entire pipeline, follow these steps:
      conda activate score
      python evaluate.py
      ```
-   - This will compute the overall AUC score.
 
 **Note**: Ensure that the UCF-Crime and XD-Violence datasets are prepared and placed in the appropriate directories (e.g., `src/event_seg/videos` for input videos).
 
