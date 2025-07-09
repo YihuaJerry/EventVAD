@@ -59,7 +59,7 @@ To run the entire pipeline, follow these steps:
 2. **Scoring**:
    - Navigate to the scoring directory:
      ```bash
-     cd ../score
+     cd src/score
      ```
    - Run the scoring script:
      ```bash
@@ -68,12 +68,9 @@ To run the entire pipeline, follow these steps:
      ```
 
 3. **Evaluation**:
-   - Navigate back to the `src` directory:
-     ```bash
-     cd ..
-     ```
    - Run the evaluation script:
      ```bash
+     cd src
      conda activate score
      python evaluate.py
      ```
