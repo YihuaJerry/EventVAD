@@ -85,10 +85,10 @@ To run the entire pipeline, follow these steps:
 
 ## Main Results
 ### UCF-Crime
-<p><img src="./assets/images/performance(1).png" width="800" "/></p>
+<p><img src="./assets/performance(1).png" width="800" "/></p>
 
 ### XD-Violence
-<p><img src="./assets/images/performance(2).png" width="800" "/></p>
+<p><img src="./assets/performance(2).png" width="800" "/></p>
 
 ## 📑 Citation
 
