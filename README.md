@@ -2,6 +2,10 @@
 
 <h5 align="center"> If our project helps you, please give us a star ⭐ on GitHub to support us. 🙏🙏 </h5>
 
+## News
+- **[2025.07.09]** 🔥 We initiated this project and made both the code and data publicly available as open source.
+- **[2025.07.06]** Our paper was accepted by ACM Multimedia 2025.
+
 ## Datasets
 
 This project uses the following datasets for evaluation:
